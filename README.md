@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love skiing and soccer
 - Visit my personal website ([mohitunecha.com](mohitunecha.com)) to learn more about me
+- Contact me at contact@mohitunecha.com
 
 <!---
 MohitUnecha/MohitUnecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
